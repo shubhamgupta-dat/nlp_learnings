@@ -8,14 +8,14 @@ This is Iteration: **1**
 ## Preprocessing
 
 ## Cleaning up the document.
-- [ ] Removal of Accented Characters
-- [ ] Tokenization
-- [ ] Normalization
-  - [ ] Contraction
-  - [ ] Stemming
-  - [ ] Lemmatization
-  - [ ] Other
-- [ ] TODO: Notebook and implementation as a part of working module.
+- [*] Removal of Accented Characters
+- [*] Tokenization
+- [*] Normalization
+  - [*] Contraction
+  - [*] Stemming
+  - [*] Lemmatization
+  - [*] Other
+- [*] TODO: Notebook and implementation as a part of working module.
 
 ## Playing around Regex
 - [ ] TODO: Notebook with all experimentation of `re` module
