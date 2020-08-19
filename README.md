@@ -3,11 +3,11 @@ This is my repository to keep track of my learnings of NLP. I will be starting f
 
 https://github.com/graykode/nlp-roadmap#natural-language-processing
 
-This is Iteration: **1**
+This is Iteration: **2**
 
 ## Preprocessing
 
-## Cleaning up the document.
+### Cleaning up the document.
 - [x] Removal of Accented Characters
 - [x] Tokenization
 - [x] Normalization
@@ -17,7 +17,10 @@ This is Iteration: **1**
   - [x] Other
 - [x] Notebook and implementation as a part of working module.
 
-## Playing around Regex
+### Playing around Regex
 - [ ] TODO: Notebook with all experimentation of `re` module
 
-## Document Represenation
+## Models and Experimentation
+- Sentiment Analysis using PyTorch for models:
+  - [X] LSTM model
+  - [ ] TODO: BERT using @huggingface
